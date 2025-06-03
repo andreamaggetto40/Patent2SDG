@@ -1,0 +1,21 @@
+Patent2SDG – Test Instructions
+
+This tool accepts patent documents in various formats and classifies them according to the 17 UN Sustainable Development Goals (SDGs). You can test the system using the files provided.
+
+Instructions:
+1. Launch the Streamlit app using:
+   streamlit run "Source Code/app.py"
+
+2. Use ONE of the following inputs:
+   - Paste the content of "sample_abstract.txt" into the text area
+   - Upload "sample_patent.xml" using the file uploader
+
+3. Click "Classify and Display Graph"
+
+4. Observe:
+   - A graph with SDG nodes and connections to your input
+   - Opportunity nodes (if similar patents are present)
+   - A generated startup idea
+   - The exportable results in CSV and XML format
+
+These examples help validate the functionality of text extraction, SDG classification, and graph rendering.

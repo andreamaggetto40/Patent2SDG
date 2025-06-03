@@ -1,0 +1,3 @@
+--- TO COPY AND PASTE IN THE TEXT BOX OF THE TOOL ---
+
+A system and method for energy-efficient water desalination using graphene membranes. The technology utilizes nanostructured graphene sheets to selectively filter salt ions while maintaining high throughput and minimal energy loss. This enables cost-effective, scalable access to clean water in resource-constrained environments.

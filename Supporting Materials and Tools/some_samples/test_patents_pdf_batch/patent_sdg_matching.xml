@@ -1,0 +1,92 @@
+<results>
+  <result>
+    <Patent File>BioPlasticFromAlgae.pdf</Patent File>
+    <SDG ID>SDG14</SDG ID>
+    <SDG Name>Life Below Water</SDG Name>
+    <Affinity>0.31769999861717224</Affinity>
+  </result>
+  <result>
+    <Patent File>BioPlasticFromAlgae.pdf</Patent File>
+    <SDG ID>SDG12</SDG ID>
+    <SDG Name>Responsible Consumption and Production</SDG Name>
+    <Affinity>0.26840001344680786</Affinity>
+  </result>
+  <result>
+    <Patent File>BioPlasticFromAlgae.pdf</Patent File>
+    <SDG ID>SDG15</SDG ID>
+    <SDG Name>Life on Land</SDG Name>
+    <Affinity>0.26589998602867126</Affinity>
+  </result>
+  <result>
+    <Patent File>BioPlasticFromAlgae.pdf</Patent File>
+    <SDG ID>SDG17</SDG ID>
+    <SDG Name>Partnerships for the Goals</SDG Name>
+    <Affinity>0.20020000636577606</Affinity>
+  </result>
+  <result>
+    <Patent File>BioPlasticFromAlgae.pdf</Patent File>
+    <SDG ID>SDG6</SDG ID>
+    <SDG Name>Clean Water and Sanitation</SDG Name>
+    <Affinity>0.19439999759197235</Affinity>
+  </result>
+  <result>
+    <Patent File>DecentralizedEnergyTrading.pdf</Patent File>
+    <SDG ID>SDG7</SDG ID>
+    <SDG Name>Affordable and Clean Energy</SDG Name>
+    <Affinity>0.40059998631477356</Affinity>
+  </result>
+  <result>
+    <Patent File>DecentralizedEnergyTrading.pdf</Patent File>
+    <SDG ID>SDG12</SDG ID>
+    <SDG Name>Responsible Consumption and Production</SDG Name>
+    <Affinity>0.2703000009059906</Affinity>
+  </result>
+  <result>
+    <Patent File>DecentralizedEnergyTrading.pdf</Patent File>
+    <SDG ID>SDG16</SDG ID>
+    <SDG Name>Peace, Justice and Strong Institutions</SDG Name>
+    <Affinity>0.2515999972820282</Affinity>
+  </result>
+  <result>
+    <Patent File>DecentralizedEnergyTrading.pdf</Patent File>
+    <SDG ID>SDG14</SDG ID>
+    <SDG Name>Life Below Water</SDG Name>
+    <Affinity>0.24729999899864197</Affinity>
+  </result>
+  <result>
+    <Patent File>DecentralizedEnergyTrading.pdf</Patent File>
+    <SDG ID>SDG9</SDG ID>
+    <SDG Name>Industry, Innovation and Infrastructure</SDG Name>
+    <Affinity>0.24160000681877136</Affinity>
+  </result>
+  <result>
+    <Patent File>WastewaterToEnergy.pdf</Patent File>
+    <SDG ID>SDG6</SDG ID>
+    <SDG Name>Clean Water and Sanitation</SDG Name>
+    <Affinity>0.41530001163482666</Affinity>
+  </result>
+  <result>
+    <Patent File>WastewaterToEnergy.pdf</Patent File>
+    <SDG ID>SDG12</SDG ID>
+    <SDG Name>Responsible Consumption and Production</SDG Name>
+    <Affinity>0.3862999975681305</Affinity>
+  </result>
+  <result>
+    <Patent File>WastewaterToEnergy.pdf</Patent File>
+    <SDG ID>SDG7</SDG ID>
+    <SDG Name>Affordable and Clean Energy</SDG Name>
+    <Affinity>0.36149999499320984</Affinity>
+  </result>
+  <result>
+    <Patent File>WastewaterToEnergy.pdf</Patent File>
+    <SDG ID>SDG9</SDG ID>
+    <SDG Name>Industry, Innovation and Infrastructure</SDG Name>
+    <Affinity>0.3513999879360199</Affinity>
+  </result>
+  <result>
+    <Patent File>WastewaterToEnergy.pdf</Patent File>
+    <SDG ID>SDG11</SDG ID>
+    <SDG Name>Sustainable Cities and Communities</SDG Name>
+    <Affinity>0.32190001010894775</Affinity>
+  </result>
+</results>
