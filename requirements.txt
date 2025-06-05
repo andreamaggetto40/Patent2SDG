@@ -1,6 +1,6 @@
 streamlit==1.33.0
 sentence-transformers==2.2.2
-torch==2.1.2
+torch==2.7.1
 transformers==4.40.0
 scikit-learn==1.4.2
 pandas==2.2.2
