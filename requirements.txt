@@ -1,6 +1,6 @@
 streamlit==1.33.0
 sentence-transformers @ git+https://github.com/UKPLab/sentence-transformers.git@v2.2.2
-PyMuPDF==1.23.25
+PyMuPDF==1.22.5
 networkx==3.2.1
 numpy==1.26.4
 pandas==2.1.1
