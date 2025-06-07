@@ -1,5 +1,0 @@
-Patent2SDG was developed entirely during the official CodeFest Spring 2025 timeframe (March–May 2025).
-The tool is fully open-source and does not rely on any commercial APIs.
-All source code is located in the 'Source Code' directory.
-All test files and instructions are in 'Supporting Materials and Tools'.
-The presentation (this document) explains the concept, architecture, and potential future impact.
